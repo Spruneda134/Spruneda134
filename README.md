@@ -1,4 +1,4 @@
-# Hey, I'm Salvador 👋
+# 👋 Hey, I'm Salvador 
 
 Software Engineer focused on building fast, reliable web applications with **Next.js**, **TypeScript**, **Tailwind**, **Flask**, and **Supabase**.
 
@@ -10,7 +10,7 @@ I care about:
 
 ---
 
-## Tech
+## 💻 Tech
 
 - **Frontend:** Next.js, React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
 - **Backend:** Flask, Supabase (PostgreSQL, Auth, Realtime), RESTful APIs  
@@ -19,7 +19,7 @@ I care about:
 
 ---
 
-## What This GitHub Shows
+## 💬 What This GitHub Shows
 
 - Full-stack projects (frontend + backend + database)
 - Experiments with auth, real-time features, and performance
@@ -29,7 +29,7 @@ If a repo is pinned, it’s something I’m comfortable showing as an example of
 
 ---
 
-## Outside of Code
+## ⚡ Outside of Code
 
 - 🎷 **Playing saxophone**  
 - 🎸 **Learning guitar** 
@@ -38,7 +38,7 @@ If a repo is pinned, it’s something I’m comfortable showing as an example of
 
 ---
 
-## Let's Connect!
+## 🌐 Let's Connect!
 
 - LinkedIn: [linkedin.com/in/salvador-pruneda](https://www.linkedin.com/in/salvador-pruneda)  
 - Email: `spruneda134@gmail.com`
