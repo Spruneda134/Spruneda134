@@ -12,9 +12,10 @@ I care about:
 
 ## Tech
 
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-- **Backend:** Flask, Supabase (PostgreSQL, Auth, Realtime), REST APIs  
+- **Frontend:** Next.js, React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
+- **Backend:** Flask, Supabase (PostgreSQL, Auth, Realtime), RESTful APIs  
 - **Workflow:** Git/GitHub, Figma, Lighthouse, Core Web Vitals, SEMrush  
+- **CS & Data:** C++, SQL (relational design & queries)
 
 ---
 
