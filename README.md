@@ -13,7 +13,7 @@ I care about:
 ## 💻 Tech
 
 - **Frontend:** Next.js, React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
-- **Backend:** Flask, Supabase (PostgreSQL, Auth, Realtime), RESTful APIs  
+- **Backend:** Flask, Express.js, Supabase (PostgreSQL, Auth, Realtime), RESTful APIs  
 - **Workflow:** Git/GitHub, Figma, Lighthouse, Core Web Vitals, SEMrush  
 - **CS & Data:** C++, SQL (relational design & queries)
 
@@ -24,8 +24,6 @@ I care about:
 - Full-stack projects (frontend + backend + database)
 - Experiments with auth, real-time features, and performance
 - Practice repos as I refine architecture and patterns
-
-If a repo is pinned, it’s something I’m comfortable showing as an example of how I work.
 
 ---
 
