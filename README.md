@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Salvador, Software Engineer
+# 👋 Hey! I'm Salvador, Software Engineer
 
 I care about:
 - Shipping production-ready features
