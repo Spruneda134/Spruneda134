@@ -1,21 +1,10 @@
-# 👋 Hey, I'm Salvador 
-
-Software Engineer focused on building fast, reliable web applications with **Next.js**, **TypeScript**, **Tailwind**, **Flask**, and **Supabase**.
+# 👋 Hey, I'm Salvador, Software Engineer
 
 I care about:
 - Shipping production-ready features
 - Clean, maintainable code
 - Performance, SEO, and accessibility
 - UX that actually feels good to use
-
----
-
-## 💻 Tech
-
-- **Frontend:** Next.js, React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
-- **Backend:** Flask, Express.js, Supabase (PostgreSQL, Auth, Realtime), RESTful APIs  
-- **Workflow:** Git/GitHub, Figma, Lighthouse, Core Web Vitals, SEMrush  
-- **CS & Data:** C++, SQL (relational design & queries)
 
 ---
 
@@ -29,10 +18,9 @@ I care about:
 
 ## ⚡ Outside of Code
 
-- 🎷 **Playing saxophone**  
 - 🎸 **Learning guitar** 
 - 🎮 **Playing video games**  
-- 🏋️ **At the gym**
+- 🏋️ **Working out at the gym**
 
 ---
 
